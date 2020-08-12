@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+# Heart Disease Prediction
 
 ```
 1. Logistic Regression
